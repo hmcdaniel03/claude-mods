@@ -1,0 +1,1 @@
+{ "name": "model-badge", "version": "0.1.0", "description": "Compact badge with the current model and effort in the footer's right corner", "author": { "name": "Hunter McDaniel" }, "types": "./types/index.d.ts" }

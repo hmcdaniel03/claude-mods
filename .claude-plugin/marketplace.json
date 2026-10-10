@@ -1,0 +1,15 @@
+{
+  "name": "hunters-mods",
+  "description": "Hunter McDaniel's Claude Code mods",
+  "owner": {
+    "name": "Hunter McDaniel",
+    "url": "https://github.com/hmcdaniel03"
+  },
+  "plugins": [
+    {
+      "name": "model-badge",
+      "source": "./plugins/model-badge",
+      "description": "Compact badge with the current model and effort in the footer's right corner"
+    }
+  ]
+}

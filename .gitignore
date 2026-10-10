@@ -1,0 +1,3 @@
+node_modules/
+# Types the engine lays into a mod folder when it loads it
+.claude-plugin/types/
