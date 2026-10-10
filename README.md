@@ -17,7 +17,7 @@ The first line adds this repository as a marketplace; the second installs a mod 
 
 | Mod | What it does |
 | --- | --- |
-| [model-badge](plugins/model-badge) | Compact badge with the current model and effort in the footer's right corner |
+| [model-badge](plugins/model-badge) | Compact badge with the current model and effort in the footer's right corner<br>![The model-badge mod showing "Opus 5.5 · high" in Claude Code's footer](plugins/model-badge/docs/badge.png) |
 
 ## Contributing a mod
 
